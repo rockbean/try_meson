@@ -1,0 +1,2 @@
+[Raspberry PI 2]
+meson rpi2-build --cross-file config/rpi/rpi2_linux_gcc
